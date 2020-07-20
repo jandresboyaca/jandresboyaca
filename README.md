@@ -16,16 +16,11 @@ const janbsi = {
   code: [Java, JavaScript, Typescript, HTML, CSS],
   tools: [Angular, Redux, Node, Kubernates, Docker , SpringBoot, Spring Cloud, Spring Security],
   architecture: ["microservices", "event-driven", "design system pattern"],
-  techCommunities: {
-                        coorganizer: "AfroPython",
-                        speaker: "Latinity",
-                        mentor: "RailsGirls POA"
-                      },
- challenge: "I am doing the #100DaysOfCode challenge focused on react and typescript"
+  challenge: "I'm looking for new challenges away from  my country"
 }
 ```
 
-<img src="https://media.giphy.com/media/LnQjpWaON8nhr21vNW/giphy.gif" width="60"> <em><b>I love connecting with different people</b> so if you want to say <b>hi, I'll be happy to meet you more!</b> :)</em>
+<img src="https://i.pinimg.com/originals/d7/25/4e/d7254e416786f83b2d03434983596c7d.gif" width="60"> <em>The software is getting slower more rapidly than hardware is becoming faster.  <b>Wirth's law</b> :) </em>
 
 ---
 
