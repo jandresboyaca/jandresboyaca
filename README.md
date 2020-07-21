@@ -9,7 +9,7 @@
 [![GitHub DeploySoft](https://img.shields.io/github/followers/DeploySoft?label=follow&style=social)](https://github.com/DeploySoft)
 
 
-### <img src="https://media.giphy.com/media/39t0oKaT84gHgM2E63/giphy.gif" width="50">More about me...  
+### <img src="https://static.ezgif.com/images/bg-white.gif" width="50">More about me...  
 
 ```javascript
 const janbsi = {
