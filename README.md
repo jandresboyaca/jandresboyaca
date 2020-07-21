@@ -9,11 +9,11 @@
 [![GitHub DeploySoft](https://img.shields.io/github/followers/DeploySoft?label=follow&style=social)](https://github.com/DeploySoft)
 
 
-### <img src="https://media.giphy.com/media/VgCDAzcKvsR6OM0uWg/giphy.gif" width="50"> A little more about me...  
+### <img src="https://media.giphy.com/media/39t0oKaT84gHgM2E63/giphy.gif" width="50">More about me...  
 
 ```javascript
 const janbsi = {
-  code: [Java, JavaScript, Typescript, HTML, CSS],
+  code: [Java, Angular, JavaScript, Typescript, HTML, CSS],
   tools: [Angular, Redux, Node, Kubernates, Docker , SpringBoot, Spring Cloud, Spring Security],
   architecture: ["microservices", "event-driven", "design system pattern"],
   challenge: "I'm looking for new challenges away from  my country"
