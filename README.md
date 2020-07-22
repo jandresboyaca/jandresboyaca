@@ -16,6 +16,7 @@ const janbsi = {
   code: [Java, Angular, JavaScript, Typescript, HTML, CSS],
   tools: [Angular, Redux, Node, Kubernates, Docker , SpringBoot, Spring Cloud, Spring Security],
   architecture: ["microservices", "event-driven", "design system pattern"],
+  knowledges: ["design patterns", "SOLID", "OOP" , "FP", "CleanCode"]
   challenge: "I'm looking for new challenges away from  my country"
 }
 ```
