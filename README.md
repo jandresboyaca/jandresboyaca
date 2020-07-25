@@ -21,7 +21,7 @@ const janbsi = {
 }
 ```
 
-<img src="https://i.pinimg.com/originals/d7/25/4e/d7254e416786f83b2d03434983596c7d.gif" width="60"> <em>The software is getting slower more rapidly than hardware is becoming faster.  <b>Wirth's law</b> :) </em>
+<em>The software is getting slower more rapidly than hardware is becoming faster.  <b>Wirth's law</b> :) </em>
 
 ---
 
