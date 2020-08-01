@@ -13,15 +13,15 @@
 const janbsi = {
   code: ["Java", "Typescript", "NodeJs", "Javascript", "php"],
   technologies : {
-    frontEnd: {
-            js: ["Angular", "Angular Native", "JQuery"],
-            css: ["materialize", "bootstrap", "metronic"],
-        },
     backEnd: {
-            java: ["SpringBoot", "Spring Cloud", "Spring Security", "RPA (Eclipse)", "Java EE"],
-            js: ["node", "express"],
-            php: ["symphony", "laravel", "native"]
-        },
+         java: ["SpringBoot", "Spring Cloud", "Spring Security", "RPA (Eclipse)", "Java EE"],
+         js: ["node", "express"],
+         php: ["symphony", "laravel", "native"]
+    },
+    frontEnd: {
+         js: ["Angular", "Angular Native", "JQuery"],
+         css: ["materialize", "bootstrap", "metronic"],
+    },
     tools: ["Docker", "Kubernates", "Nginx" , "Kafka" , "Redux"],
     databases: ["mongo", "MySql", "SQL Server"],
     misc: ["newman", "selenium"]
