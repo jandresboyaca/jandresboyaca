@@ -24,6 +24,7 @@ const janbsi = {
     },
     tools: ["Docker", "Kubernates", "Nginx" , "Kafka" , "Redux"],
     databases: ["mongo", "MySql", "SQL Server"],
+    cloud: [AWS(In progress)],
     misc: ["newman", "selenium"]
   },
   architecture: ["microservices", "event-driven", "design system pattern"],
