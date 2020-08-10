@@ -22,9 +22,8 @@ const janbsi = {
          js: ["Angular", "Angular Native", "JQuery"],
          css: ["materialize", "bootstrap", "metronic"],
     },
-    tools: ["Docker", "Kubernates", "Nginx" , "Kafka" , "Redux"],
+    tools: ["Docker", "Kubernates", "Nginx" , "Kafka" , "Redux", "AWS"],
     databases: ["mongo", "MySql", "SQL Server"],
-    cloud: [AWS(In progress)],
     misc: ["newman", "selenium"]
   },
   architecture: ["microservices", "event-driven", "design system pattern"],
