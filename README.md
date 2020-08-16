@@ -19,7 +19,7 @@ const janbsi = {
          php: ["symphony", "laravel", "native"]
     },
     frontEnd: {
-         js: ["Angular", "Angular Native", "JQuery"],
+         js: ["Angular", "Angular Native", "JQuery", "ECMAScript"],
          css: ["materialize", "bootstrap", "metronic"],
     },
     tools: ["Docker", "Kubernates", "Nginx" , "Kafka" , "Redux", "AWS"],
