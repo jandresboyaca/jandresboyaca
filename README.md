@@ -10,7 +10,7 @@
 ### <img src="https://static.ezgif.com/images/bg-white.gif" width="50">More about me...  
 
 ```javascript
-const jAndresBoyaca = {
+const Andres = {
   code: ["Java", "Typescript", "NodeJs", "Javascript", "php"],
   technologies : {
     backEnd: {
