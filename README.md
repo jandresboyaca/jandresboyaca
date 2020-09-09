@@ -23,11 +23,11 @@ const Andres = {
          css: ["materialize", "bootstrap", "metronic"],
     },
     tools: ["Docker", "Kubernates", "Nginx" , "Kafka" , "Redux", "AWS"],
-    databases: ["mongo", "MySql", "SQL Server"],
+    databases: ["NoSql", "MySql", "SQL Server"],
     misc: ["newman", "selenium"]
   },
   architecture: ["microservices", "event-driven", "design system pattern"],
-  knowledges: ["design patterns", "SOLID", "OOP" , "FP", "CleanCode"],
+  knowledges: ["design patterns", "SOLID", "OOP" , "FP", "CleanCode", "Data Structurs", "Algorithms"],
   challenge: "I'm looking for new challenges away from my country"
 }
 ```
