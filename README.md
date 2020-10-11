@@ -16,7 +16,7 @@ const Andres = {
     backEnd: {
          java: ["SpringBoot", "Spring Cloud", "Spring Security", "RPA (Eclipse)", "Java EE"],
          js: ["node", "express"],
-         php: ["symphony", "laravel", "native"]
+         php: ["laravel", "native"]
     },
     frontEnd: {
          js: ["Angular", "Angular Native", "JQuery", "ECMAScript"],
@@ -27,7 +27,7 @@ const Andres = {
     misc: ["newman", "selenium"]
   },
   architecture: ["microservices", "event-driven", "design system pattern"],
-  knowledges: ["design patterns", "SOLID", "OOP" , "FP", "CleanCode", "Data Structurs", "Algorithms"],
+  knowledges: ["design patterns", "SOLID", "YAGNI", "DRY", "KISS", "OOP", "FP", "CleanCode", "Data Structurs", "Algorithms"],
   challenge: "I'm looking for new challenges away from my country"
 }
 ```
