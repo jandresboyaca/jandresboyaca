@@ -11,7 +11,7 @@
 
 ```javascript
 const Andres = {
-  code: ["Java", "Typescript", "NodeJs", "Javascript", "php"],
+  code: ["Java", "JavaScript"],
   technologies : {
     backEnd: {
          java: ["SpringBoot", "Spring Cloud", "Spring Security", "RPA (Eclipse)", "Java EE"],
