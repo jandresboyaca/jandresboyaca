@@ -7,7 +7,7 @@
 [![Linkedin: jaimeaboyaca](https://img.shields.io/badge/-jaimeaboyaca-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/jaimeaboyaca/)](https://www.linkedin.com/in/jaimeaboyaca/)
 [![GitHub DeploySoft](https://img.shields.io/github/followers/jandresboyaca?label=follow&style=social)](https://github.com/jandresboyaca)
 
-### <img src="https://static.ezgif.com/images/bg-white.gif" width="50">More about me...  
+### More about me...  
 
 ```javascript
 const Andres = {
