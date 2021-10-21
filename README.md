@@ -25,7 +25,7 @@ const Andres = {
     databases: ["NoSql", "Sql"],
     misc: ["newman", "cypress" ,"backstop"]
   },
-  architecture: ["microservices", "event-driven", "design system pattern" ,"clean architecture"],
+  architecture: ["microservices", "event-driven", "design system pattern" ,"clean architecture", "enterprise integration patterns"],
   knowledges: ["design patterns", "SOLID", "YAGNI", "DRY", "KISS", "OOP", "FP", "CleanCode", "Data Structurs", "Algorithms"],
   challenge: "I'm looking for new challenges away from my country"
 }
