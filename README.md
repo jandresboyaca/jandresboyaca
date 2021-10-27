@@ -18,7 +18,7 @@ const Andres = {
          js: ["node", "express"]
     },
     frontEnd: {
-         js: ["Angular", "Angular Native", "JQuery", "ECMAScript"],
+         js: ["Angular", "Angular Native", "ECMAScript"],
          css: ["materialize", "bootstrap", "metronic"],
     },
     tools: ["Docker", "Kubernates", "Nginx" , "Kafka" , "Redux", "AWS" ,"RabbitMQ"],
