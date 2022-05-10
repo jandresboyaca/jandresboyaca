@@ -21,7 +21,7 @@ const Andres = {
          js: ["Angular", "Angular Native", "ECMAScript"],
          css: ["materialize", "bootstrap", "metronic"],
     },
-    tools: ["Docker", "Kubernates", "Nginx" , "Kafka" , "Redux", "AWS" ,"RabbitMQ"],
+    tools: ["Terraform", "Docker", "Kubernates", "Nginx" , "Kafka" , "Redux", "AWS" ,"RabbitMQ"],
     databases: ["NoSql", "Sql"],
     misc: ["newman", "cypress" ,"backstop"]
   },
